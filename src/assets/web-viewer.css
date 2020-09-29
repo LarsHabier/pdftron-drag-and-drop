@@ -1,0 +1,3 @@
+.document .selection-disabled #selectionrect {
+  display: none !important;
+}
